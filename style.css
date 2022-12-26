@@ -18,6 +18,7 @@ body{
     height: 50px;
     background-color: blue;
     border-bottom: 3px solid black;
+    z-index: 9999;
 }
 .github{
     background-image: url(image/github.png);
